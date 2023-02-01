@@ -17,14 +17,1963 @@
     "node": "",
     "children": [
       {
-        "node": "Requirements.md",
+        "node": "Data Science",
+        "children": [
+          {
+            "node": "Pasted image 20220726193625.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20220726193702.jpg",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "RDD - Transformations and Actions.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Semester 2",
+            "children": [
+              {
+                "node": "The 3 ...no wait 4 ... no no wait again 5 Vs of Big Data.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Semester 2 images",
+                "children": [
+                  {
+                    "node": "3 V's.png",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "4 V's.jpg",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "5 V's.jpg",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              },
+              {
+                "node": "Vocabulary.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "What is Big Data.md",
+                "children": [],
+                "isFolder": false
+              }
+            ],
+            "isFolder": true
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "Digital Technologies",
+        "children": [
+          {
+            "node": "Requirements.md",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "English",
+        "children": [
+          {
+            "node": "Semester 1",
+            "children": [
+              {
+                "node": "1984 novel study continued.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Beowulf pt2..md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Beowulf.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Brainstorm.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Chapter 8 Study Questions-2.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Dystopian Texts.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Expressive use of language.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Fear and Newspeak.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "History of the English Language.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Imagine your perfect world.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Julia Creative Writing task.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Modern English.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Pasted image 20220615123519.png",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Phonology.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Texting kills languages.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "The Two Winstons.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Themes.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "What is language.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Ye Old English.md",
+                "children": [],
+                "isFolder": false
+              }
+            ],
+            "isFolder": true
+          },
+          {
+            "node": "Semester 2",
+            "children": [
+              {
+                "node": "Class notes",
+                "children": [
+                  {
+                    "node": "Analysis.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Artefacts.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Body para structure.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Excerpt analysis 1.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Intro to Farenheit 451.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Introduction to Satire.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Oral Presentation Feedback.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Sammy J and Mark Humphries.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Symbolism.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "The Truman Show.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Themes of Farenheit 451.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Understanding Satire.md",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              },
+              {
+                "node": "Handouts",
+                "children": [
+                  {
+                    "node": "Part 1- Fahrenheit 451.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "An Analysis of Satire - Practice Task.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "The Truth Nehind Birds Aren't Real.md",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              }
+            ],
+            "isFolder": true
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "Mathematics",
+        "children": [
+          {
+            "node": "Semester 1",
+            "children": [
+              {
+                "node": "1. Algebra functions",
+                "children": [
+                  {
+                    "node": "1.01 - Algebra Review.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "1.02 - Binomeal factorisation.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "1.03 - Linear equations.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "1. Algebra functions - Images",
+                    "children": [
+                      {
+                        "node": "Pasted image 20220607100634.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607103614.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607104402.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607104417.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607104751.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607113434.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607113708.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607114952.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607115021.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607115221.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607115225.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607115414.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607115435.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607115554.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607115608.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607115620.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607115825.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607115852.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607115906.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607115934.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607120209.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607120419.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607120614.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607120911.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607120943.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607122038.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607123254.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607123255.png",
+                        "children": [],
+                        "isFolder": false
+                      }
+                    ],
+                    "isFolder": true
+                  },
+                  {
+                    "node": "1.04 - Linear relationships.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "1.05 -Graphical solution of  simultaneous equations.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "1.06 - Algebraic solution of  simultaneous equation.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "4.01 - Functions and relations.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "4.02 - Further properties of functions.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "4.03 - Properties of linear functions.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "4.04 - Equations of linear functions.md",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              },
+              {
+                "node": "2. Quadratic functions",
+                "children": [
+                  {
+                    "node": "1.07 - Quadratic equations.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "1.08 - The quadratic formula and  the discriminant.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "2. Quadratic functions - Images",
+                    "children": [
+                      {
+                        "node": "Pasted image 20220607114413.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607114456.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607131313.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607131338.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607131609.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607131651.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607132641.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607134803.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607134813.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607134945.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607135004.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607135740.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607140108.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607140122.png",
+                        "children": [],
+                        "isFolder": false
+                      }
+                    ],
+                    "isFolder": true
+                  },
+                  {
+                    "node": "4.05 - Quadratic functions.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "4.06 - Quadratic equations and  the quadratic function.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "4.07 - Graphs of functions.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "4.08 - Graphs of relations.md",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              },
+              {
+                "node": "3. Polynomials",
+                "children": [
+                  {
+                    "node": "1.10 -  Polynomials.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "1.11 - Polynomial factorisation.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "1.12 - Polynomial equations.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "3. Polynomials - Images",
+                    "children": [
+                      {
+                        "node": "Pasted image 20220607141242.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607143638.png",
+                        "children": [],
+                        "isFolder": false
+                      }
+                    ],
+                    "isFolder": true
+                  }
+                ],
+                "isFolder": true
+              },
+              {
+                "node": "4. Trigonometry",
+                "children": [
+                  {
+                    "node": "3.01 - Review of right-angled triangles.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "3.02 - Angles of any magnitude.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "3.03 - Area of a triangle.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "3.04 - The sine rule.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "3.05 - The cosine rule.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "3.06 - Applications of trigonometry.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "3.07 - Circular measure.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "3.08 - Radians and the circle.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "4. Trigonometry - Images",
+                    "children": [
+                      {
+                        "node": "Pasted image 20220607145742.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607150051.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607150108.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607150120.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607150135.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607162502.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607162534.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607162546.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607162604.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607162633.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607162740.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607163014.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607163027.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607163035.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607165918.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607170638.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607174913.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607174932.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607175438.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607175500.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607175507.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607175615.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607181312.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607183131.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607183459.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607183525.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607183803.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607183813.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607183822.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607184030.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607184407.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607184916.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607184923.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607184933.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607184957.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607185325.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607185339.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607185346.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607194614.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607195223.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607195233.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607195728.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607195741.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607200322.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607202834.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607203227.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220613104406.png",
+                        "children": [],
+                        "isFolder": false
+                      }
+                    ],
+                    "isFolder": true
+                  },
+                  {
+                    "node": "6.01 - Basic trigonometric graphs.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "6.02 -  Amplitude changes.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "6.03 -  Period changes.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "6.04 - Phase changes.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "6.05 - Angle sums and differences.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "6.06 - Trigonometric equations.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "6.07 - Modelling periodic phenomena.md",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              },
+              {
+                "node": "Exam Notes - S1.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "5. Probability",
+                "children": [
+                  {
+                    "node": "2.01 - Set notation.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "2.02 - The binomial theorem.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "2.03 - Counting combinations.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "2.04 - Sample spaces and events.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "2.05 -  Definition of probability.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "2.06 - Probability in finite sample spaces.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "2.07 - Probabilities using combinations.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "2.08 - Relative frequency.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "2.09 - Probabilities of combined events.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "5. Probability - Images",
+                    "children": [
+                      {
+                        "node": "Pasted image 20220607203520.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607205808.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607205816.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607210239.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607210639.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607210647.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607210736.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607210755.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607210811.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220607210818.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220608084932.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220608085340.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220608085841.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220608090448.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220608090512.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220608090521.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220608090530.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220608090700.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220608090714.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220608090912.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220608091422.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220608092440.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220608092647.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220608092656.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220608095005.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220608100835.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220608100905.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220608100957.png",
+                        "children": [],
+                        "isFolder": false
+                      }
+                    ],
+                    "isFolder": true
+                  },
+                  {
+                    "node": "5.01 - Tree diagrams.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "5.02 - Two-way tables.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "5.03 - Venn diagrams.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "5.04 - Conditional probability.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "5.05 - Dependent and independent events.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "5.06 - Calculating probabilities.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "5.07 - Applications to data.md",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              }
+            ],
+            "isFolder": true
+          },
+          {
+            "node": "Semester 2",
+            "children": [
+              {
+                "node": "Calculus",
+                "children": [
+                  {
+                    "node": "Antiderivitaves.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "attachments",
+                    "children": [
+                      {
+                        "node": "Pasted image 20221025202432.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20221027205129.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20221025212947.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20221113111624.png",
+                        "children": [],
+                        "isFolder": false
+                      }
+                    ],
+                    "isFolder": true
+                  },
+                  {
+                    "node": "Curve Sketching.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Optimisation Problems.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Summary of Calculus.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Tangents and normals to a curve.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Using Antiderivitaves.md",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              },
+              {
+                "node": "Exponentials",
+                "children": [
+                  {
+                    "node": "Exponential Equations.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Exponential Functions.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Exponential Modelling.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Index Laws.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Radical and Fractional Indicies.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Scientific Notation and Significant Figures.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Summary of Exponential Functions.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Transformatios of Exponential Graphs.md",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              },
+              {
+                "node": "Derivitaves",
+                "children": [
+                  {
+                    "node": "attachments",
+                    "children": [
+                      {
+                        "node": "Pasted image 20220825153136.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220829130717.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220829171734.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220829171840.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220829171852.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220829184211.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220829184234.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220829184633.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220829185107.png",
+                        "children": [],
+                        "isFolder": false
+                      },
+                      {
+                        "node": "Pasted image 20220905202055.png",
+                        "children": [],
+                        "isFolder": false
+                      }
+                    ],
+                    "isFolder": true
+                  },
+                  {
+                    "node": "Average rates of change.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Deriviaves of simple functions.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Instantaneous Rates of Change & the slope of a curve.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Instantaneous rates of change and change of functions.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Introduction to limits.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Summary of Derivatives.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "The derivitave of a power.md",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              },
+              {
+                "node": "Final Summary.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Sequences",
+                "children": [
+                  {
+                    "node": "Arithmetic Sequences & TI-84 Plus CE.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Arithmetic Sequences.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Geometric Sequences.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Infinite Geometric Series.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Sequences.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Sum of Arithmetic Sequences (Arithmetic Series).md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Sum of Geometric Sequence (Geometic Series).md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Summary of Sequences.md",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              }
+            ],
+            "isFolder": true
+          },
+          {
+            "node": "Semester 3",
+            "children": [
+              {
+                "node": "Probability",
+                "children": [
+                  {
+                    "node": "2.01.md",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              }
+            ],
+            "isFolder": true
+          },
+          {
+            "node": "Semester 4",
+            "children": [],
+            "isFolder": true
+          },
+          {
+            "node": "Templates",
+            "children": [
+              {
+                "node": "Template (Master).md",
+                "children": [],
+                "isFolder": false
+              }
+            ],
+            "isFolder": true
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "Religious Education",
+        "children": [
+          {
+            "node": "Semester 1",
+            "children": [
+              {
+                "node": "Exam Q&A.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Exam revision.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Module 1",
+                "children": [
+                  {
+                    "node": "Archetypes.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Cindy Ella.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "How to read a story.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Introduction to 11 RE.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Meaning and Function - definition and example.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Meaning and Function.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Meaning of.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Narrative v story, Worldview, Archetype.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Tortoise and Hare.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "What do myths mean.md",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              },
+              {
+                "node": "Module 2",
+                "children": [
+                  {
+                    "node": "Gilgamesh and Scripture.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Mesopotamia story summaries.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Mesopotamia.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "More on The Epic of Atrahasis.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Pasted image 20220608145832.png",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Rainbow serpant.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "TL_IntroCh1.pdf",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              },
+              {
+                "node": "Module 3",
+                "children": [
+                  {
+                    "node": "Creation Stories in Genesis.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Enuma v Genesis.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "EPSON005.jpg",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Exodus.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "History and Geography of Canaan.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "How was the Torah written.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Pasted image 20220606203426.png",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Prophets.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "TaNaK.md",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              },
+              {
+                "node": "Module 4",
+                "children": [
+                  {
+                    "node": "Covenants - EBSCO.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Covenants.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Intro to the New Testament.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "John's Gospel.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Mark & Luke's Gospel.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Matthew's Gospel.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "New Testament.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Pasted image 20220606203628.png",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Rationale Structure.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "The Earliest Christian literature - Paul.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "The story of Cain and Abel.md",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              }
+            ],
+            "isFolder": true
+          },
+          {
+            "node": "Semester 2",
+            "children": [
+              {
+                "node": "Attachments",
+                "children": [
+                  {
+                    "node": "Pasted image 20220807163250.png",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Pasted image 20220807163348.png",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Pasted image 20220807163452.png",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Pasted image 20220807170814.png",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Pasted image 20220807170833.png",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Pasted image 20220807170836.png",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              },
+              {
+                "node": "Buddhism and Meditation",
+                "children": [
+                  {
+                    "node": "Buddhist meditation instructions.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Buddhist Meditation.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "The Global Spread of Buddhism.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "The Teachings of the Buddha.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Video Seven Wonders of The Buddhist World.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Video What is Buddhism.md",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              },
+              {
+                "node": "Christian Mediation",
+                "children": [
+                  {
+                    "node": "Analysis of benefits from practitioners.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Analysis of the study Christian Meditation in Schools 2018.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "History of Christion Meditation.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Thomas Merton.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Video Bishop Robert Barron on Thomas Merton.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Video John Main.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "What is Chirsitan Meditation.md",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              },
+              {
+                "node": "Exam Revision.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Globalisation",
+                "children": [
+                  {
+                    "node": "Article - Globalization and Religion in Historical Perspective - A Paradoxical Relationship.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Enquiry task - What is cultural globalisation.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Globalization and culture.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Globalization and the Catholic Church.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Globalization.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Pope Francis and globalization.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Responses to globalisation.md",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              },
+              {
+                "node": "History of Prayer",
+                "children": [
+                  {
+                    "node": "Fr Mike Schmitz Tips for praying.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "History of Prayer.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Introduction to Prayer.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Marian Apparitions.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Religious Orders and the History of Prayer.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "The Bible and Globalization.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "The Metaphysics of Prayer.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Types of Prayer 1 Catholic Charismatic Renewal.md",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Types of Prayer 1 The Mass.md",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              }
+            ],
+            "isFolder": true
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "Robotics",
         "children": [],
-        "isFolder": false
+        "isFolder": true
+      },
+      {
+        "node": "Graphic Design",
+        "children": [],
+        "isFolder": true
       }
     ],
     "isFolder": true
   },
-  "openFolders": [],
+  "openFolders": [
+    "//Robotics",
+    "//Obsidian",
+    "//Mathematics",
+    "//Mathematics/Mathematics/Semester 1",
+    "//Mathematics/Mathematics/Semester 1/Mathematics/Semester 1/1. Algebra functions"
+  ],
   "fileIcons": [],
   "spaces": [],
   "vaultCollapsed": false,
