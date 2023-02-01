@@ -6,7 +6,7 @@
   "inlineStyler": true,
   "inlineStylerColors": false,
   "editorFlow": true,
-  "editorFlowStyle": "seamless",
+  "editorFlowStyle": "classic",
   "spacesEnabled": true,
   "spacesPerformance": false,
   "spacesStickers": true,
@@ -1969,7 +1969,12 @@
   },
   "openFolders": [
     "//Robotics",
-    "//Obsidian"
+    "//Obsidian",
+    "//Graphic Design",
+    "//Mathematics",
+    "//Mathematics/Mathematics/Semester 3",
+    "//Mathematics/Mathematics/Semester 3/Mathematics/Semester 3/Probability",
+    "//Mathematics/Mathematics/Templates"
   ],
   "fileIcons": [],
   "spaces": [],

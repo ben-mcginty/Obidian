@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "05b04bac26ce58f6",
+        "id": "f96d7c8d3b7e7fd4",
         "type": "tabs",
         "children": [
           {
-            "id": "dfcad23f91e47a9f",
+            "id": "631378dde1e28fb4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Semester 1/1. Algebra functions/1.01 - Algebra Review.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -58,7 +54,19 @@
             }
           },
           {
-            "id": "e6155f1137a00a70",
+            "id": "0f7daf014824cc1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Semester 3/Probability/2.01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7ebdeec7a0b0b06",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -86,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Semester 1/1. Algebra functions/1.01 - Algebra Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,11 +119,52 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "obsidian-rich-links:Rich Links": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dfcad23f91e47a9f",
+  "floating": {
+    "id": "79cdac2d8e2c2104",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4732f721fda88f97",
+        "type": "window",
+        "children": [
+          {
+            "id": "df64e9fa92862bfa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3b23d1978ae03b77",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Mathematics/Semester 3/Probability/2.01.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -64,
+        "y": -899,
+        "width": 1194,
+        "height": 776,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "631378dde1e28fb4",
   "lastOpenFiles": [
+    "Mathematics/Semester 3/Probability/2.01.md",
+    "Mathematics/Templates/Template (Master).md",
+    "Mathematics/Semester 1/1. Algebra functions/1.01 - Algebra Review.md",
     "Data Science/Pasted image 20220726193702.jpg",
     "Data Science/Pasted image 20220726193625.png",
     "Requirements.md",
