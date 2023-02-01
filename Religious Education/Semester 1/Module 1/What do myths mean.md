@@ -1,0 +1,18 @@
+[[Meaning of]]
+-[What Is Myth? Crash Course World Mythology #1](https://www.youtube.com/watch?v=HeX6CX5LEj0)  
+- More difficult than other subjects
+-   Myths are v old
+-   Many variants of myths
+-   Open to interpretation
+-   All myths are interpretations
+-   Can be understood in many ways
+-   Myth v. Relion lie is blurred
+-   Myths are stories that explain something
+-   Rarely have authors
+-   Can mean a false story
+-   Myth comes from mythos meaning story
+-   Significance & staying power keep a myth in circulation
+-   Myths are primitive science
+-   Myth =/= truth
+-   Myth was used to try to explain things
+-   Some types are creation, apocolypse, hero, etc.

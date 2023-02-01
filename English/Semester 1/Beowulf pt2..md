@@ -1,0 +1,3 @@
+Do you think that texts like 'Beowulf' have a relevance in the 21st century? Why or why not?
+
+I think that texts like Beowulf have a place in the world. They allow us to see what society was like, when there was no formal governments. I think that they have a place, and give a good historical perspective that show us what people would be going through a long time ago, even with all the benefits, I believe that it is a niche, as most wouldn't understand it and even less would be able to contextualise it. Most would have absolutely no care in the would about what it does, and what role it plays. Some might look into it for a bit, but drop off, and even less would read the whole thing in it's entirety.

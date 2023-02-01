@@ -1,0 +1,23 @@
+-   Apache Spark and Python Pyspark handle Big Data through an abstraction called a Resilient Distributed Dataset (RDD).
+-   An RDD effectively handles Big Data through partitioning subsets of data that can be operated on in parallel across various nodes and has replications per partition to prevent loss of data.
+-   Using an RDD allows us to have some serious benefits when processing the data
+-   The data is resilient — by storing multiple copies of data, each in different nodes, we avoid the loss of data in the rare case that one or more nodes fail.
+-   The data is distributed across a set of **partitions**. If we have 100GB of data, then partitioning that data across several worker nodes will mean that each node less data to work with, resulting in overall faster operation.
+	- When programming with data an RDD will be able to:
+		- Distributes the data contained in RDDs across **worker nodes** (called the **executors**) in the cluster and **parallelizes** the operations.
+		-   This means that each RDD is split into multiple partitions, which can be computed on different nodes of the cluster.
+		-   The number of partitions created DOES NOT mean that there has to be the same number of worker nodes or executors
+			- -   The data is a dataset that may be formatted into named columns with indices (a DataFrame, SQL database file etc), but it may also have no formal structure organization aside from being partitioned.
+			- ![[Pasted image 20220726193625.png]]
+
+It Is important to note that an RDD:
+-   Is a **Read-only** data structure. This means that an RRD cannot change once it is created. In a programming senses an RDD is immutable
+-   It allows data operations to be performed in parallel
+-   It is **Fault-tolerant.** This means that **t**he _lineage of data is preserved_, so data can be re-created on a new node at any time. This is managed by what is called a DAG(Dynamic Acyclic Graph). This is basically a record of events that have been performed on the RDD so that a level of backtracking (undoing) can be performed on the dataset.
+-   It has the ability to **cache** the dataset in memory using the _persist_ method available
+-   Allows the fallback to disk storage where possible
+- ![[Pasted image 20220726193702.jpg]]
+- When processing RDDs, there are three basic scenarios that can occur:
+	- creating new RDDs
+	- TRANSFORM existing RDDs and creating a new RDD
+	- calling operations (ACTIONS) on RDDs to compute a result.

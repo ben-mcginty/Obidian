@@ -1,0 +1,16 @@
+- A sequence is an ordered list. It is a function whose domain is the natural numbers. Each member of a sequence is called a term, denoted by $t_{n}$ or $a_{n}$ where $n$ is the term number. The sum of a sequence is called a series. Finite sequences have a finite number of terms while infinite sequences go on indefinitely [[Semester 2/Sequences/Sequences]]
+- An arithmetic sequence or arithmetic progression (AP) has a first term denoted by $t_{1}$ or $a$ with each term differing from the previous one by the common difference, $d$. The general term of an AP is given by $t_{n}=t_{1}+(n-1)$ or recursively by $t_{n+1}=t_{n}+d$. [[Arithmetic Sequences & TI-84 Plus CE]] [[Arithmetic Sequences]]
+- The common difference of an AP is given by:
+	- $d=t_{n}-t_{n-1}$ or $d=t_{n+1}-t_{n}$.
+- For a sequence $t_{1}$, $t_{2}$, $t_{3}$,… the corresponding series is $t_{1}$, $t_{1}+t_{2}$, $t_{1}+t_{2}+t_{3}$,… [[Sum of Arithmetic Sequences (Arithmetic Series)]]
+- The sum of $n$ terms of an arithmetic series with the first term $t_{1}$ and common difference $d$ is given by $S_{n}=\frac{n}{2}[2t_{1}+(n-1)d]$ or $S_{n}=\frac{n}{2}[t_{1}+t_{n}]$, where $t_{n}$ is the last term. [[Geometric Sequences]]
+- A geometric sequence or geometric progression (GP) has a constant called the common ratio that is the ratio of any two successive terms. The first term is written as $a$ or $t_{1}$ and the common ratio as $r$. A GP may be defined recursively by $t_{n+1}=rt_{n}$, where $n \geq 1$.
+- The common ratio may be expressed as $r=\frac{t_{n}}{t_{n-1}}$.
+- The general term of a GP is given by $t_{n}=ar^{n-1}$ or $t_{1}r^{n-1}$
+- A sequence that has a limit as $n\rightarrow\infty$ is said to converge to the limit. [[Infinite Geometric Series]]
+- A sequence that does not have a limit as $n\rightarrow\infty$ is said to diverge.
+- A geometric sequence for which $-1<r<1$ converges to 0
+- A geometric sequence for which $r<-1$ or $r>1$ diverges. The size of the terms increases without bound.
+- The sum of $n$ terms of a geometric series is given by $S_{n}=\frac{t_{1}(t^{n}-1)}{r-1}$ or $S_{n}=\frac{t_{1(1-r^n})}{1-r}$, for $r\neq 1$. [[Sum of Geometric Sequence (Geometic Series)]]
+- If the last term of a geometric sequence ($t_{n}$) is known, then the sum is $S_{n}=\frac{rt_{n}-t_{1}}{r-1}$ or $S_{n}=\frac{t_{1}-rt_{n}}{1-r}$
+- A geometric series converges if $-1<r<1$. The limiting sum (sum to infinity) as a series with first term $a$ and common ratio $r$ is given by $S_{\infty}=\frac{t_{1}}{1-r}$
