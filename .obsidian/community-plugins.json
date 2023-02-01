@@ -1,10 +1,4 @@
 [
-  "quick-latex",
-  "obsidian-rich-links",
-  "window-collapse",
-  "obsidian-smart-typography",
-  "obsidian-style-settings",
-  "tag-wrangler",
   "table-editor-obsidian",
   "obsidian-better-codeblock",
   "obsidian-collapse-all-plugin",
@@ -16,5 +10,12 @@
   "obsidian-minimal-settings",
   "obsidian-charts",
   "obsidian-git",
-  "obsidian-leaflet-plugin"
+  "obsidian-leaflet-plugin",
+  "quick-latex",
+  "obsidian-rich-links",
+  "obsidian-smart-typography",
+  "obsidian-sortable",
+  "obsidian-style-settings",
+  "tag-wrangler",
+  "window-collapse"
 ]
