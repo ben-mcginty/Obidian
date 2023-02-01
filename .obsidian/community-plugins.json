@@ -12,5 +12,8 @@
   "obsidian-style-settings",
   "table-editor-obsidian",
   "obsidian-git",
-  "make-md"
+  "make-md",
+  "obsidian-minimal-settings",
+  "code-block-copy",
+  "tag-wrangler"
 ]
