@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Semester 3/Probability/2.01.md",
+                "file": "Digital Technologies/Requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Semester 3/Probability/2.01.md",
+                "file": "Digital Technologies/Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,20 +104,21 @@
       "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-rich-links:Rich Links": false
+      "obsidian-rich-links:Rich Links": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "631378dde1e28fb4",
   "lastOpenFiles": [
+    "Mathematics/Semester 3/Probability/2.02.md",
+    "Mathematics/Semester 3/Probability/2.01.md",
     "Mathematics/Semester 3/Probability/Pasted image 20230201191325.png",
     "Mathematics/Semester 3/Probability/Pasted image 20230201191257.png",
-    "Mathematics/Semester 3/Probability/2.01.md",
     "Mathematics/Semester 3/Probability/Images/Pasted image 20230201191046.png",
     "Pasted image 20230201191105.png",
     "Mathematics/Semester 3/Probability/Images/Pasted image 20230201191111.png",
     "Pasted image 20230201191109.png",
     "Mathematics/Templates/Template (Master).md",
-    "Mathematics/Semester 1/1. Algebra functions/1.01 - Algebra Review.md",
-    "Data Science/Pasted image 20220726193702.jpg"
+    "Mathematics/Semester 1/1. Algebra functions/1.01 - Algebra Review.md"
   ]
 }

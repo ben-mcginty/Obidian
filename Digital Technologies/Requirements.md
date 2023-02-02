@@ -34,11 +34,11 @@ Including an “Assumptions” and/or “Exclusions” section is a wise approac
 -   **Why:** An established integration (e.g. PayPal) is a better solution than a robust custom build integration for a payment service in this case because it easily meets client requirements.
 -   **Assumptions**
     -   Flat fee for all shipping & handling
-    -   All shipping is within Australia. (not including Easter Island, Antarctica or Christmas Island)
+    -   All shipping is within Australia. (not including External Territories)
     -   Taxes do not apply
 -   **Exclusions**
     -   Custom shipping & handling fee calculations
-    -   Shipping internationally, to Easter Island, Antarctica, or to Christmas Island
+    -   Shipping internationally, or to External Territories
     -   Tax rulesent example
 
 # Activity
