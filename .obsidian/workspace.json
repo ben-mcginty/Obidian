@@ -11,11 +11,28 @@
             "id": "631378dde1e28fb4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Digital Technologies/Requirements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1013b2c7259eeee1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital Technologies/Sustainability game.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4085db378f0b7ec6",
@@ -74,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Digital Technologies/Sustainability game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +121,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "631378dde1e28fb4",
+  "active": "1013b2c7259eeee1",
   "lastOpenFiles": [
     "Digital Technologies/Requirements.md",
     "Mathematics/Semester 3/Probability/2.02.md",
