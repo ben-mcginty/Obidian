@@ -45,7 +45,7 @@ Including an “Assumptions” and/or “Exclusions” section is a wise approac
 Software chosen: [obsidian](https://obsidian.md/)
 #### Product requirements
 -   What will the product do?
-	- The product is a PKM (personal knowledge managment) application
+	- The product is a PKM (personal knowledge managment) application. It allows the user to record informatio locally in the Markdown format.
 -   What is the product’s main functionality?
 	- To enable the management and editing of markdown (.md) files.
 -   What other actions should the product perform?
