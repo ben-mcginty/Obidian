@@ -64,7 +64,7 @@ Software chosen: [obsidian](https://obsidian.md/)
 
 #### Regarding the user:
 -   Who will be the primary user of the product?
-	- Students and professionals
+	- Students and professionals are the primay users as it is a valuable note-taking and study tool.
 -   What is the age range for the user?
 	- $\geq$ 12
 -   Where does the user live?
@@ -78,9 +78,9 @@ Software chosen: [obsidian](https://obsidian.md/)
 
 #### Regarding the user’s relationship with the product:
 -   How will the user interact with the product?
-	- As an application on thier computer or smartphone
+	- As an application on thier computer or smartphone, with a keyboard and mouse or touchscreen.
 -   What need will the product satisfy for the user?
-	- Note-taking and information management
+	- Note-taking and information management.
 -   How is the user currently satisfying this need?
 	- Varies
 -   How much will the user be willing to spend on the product?
@@ -111,7 +111,7 @@ Software chosen: [obsidian](https://obsidian.md/)
 
 #### Regarding sales and marketing:
 -   How will the product be sold?
-	- Via the Internet
+	- Via the Internet - free download from site.
 -   How will it be advertised?
 	- No advertising - too expensive
 
