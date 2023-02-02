@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4085db378f0b7ec6",
@@ -123,10 +124,10 @@
   },
   "active": "1013b2c7259eeee1",
   "lastOpenFiles": [
-    "Digital Technologies/Sustainability game.md",
-    "Digital Technologies/Requirements.md",
     "Mathematics/Semester 3/Probability/2.02.md",
     "Mathematics/Semester 3/Probability/2.01.md",
+    "Digital Technologies/Sustainability game.md",
+    "Digital Technologies/Requirements.md",
     "Mathematics/Semester 3/Probability/Pasted image 20230201191325.png",
     "Mathematics/Semester 3/Probability/Pasted image 20230201191257.png",
     "Mathematics/Semester 3/Probability/Images/Pasted image 20230201191046.png",
