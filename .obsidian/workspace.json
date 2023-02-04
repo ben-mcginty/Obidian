@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "631378dde1e28fb4",
+            "id": "1013b2c7259eeee1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Technologies/Requirements.md",
+                "file": "Mathematics/Semester 3/Probability/2.02.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1013b2c7259eeee1",
+            "id": "2aede4f965ead522",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Semester 3/Probability/2.01.md",
+                "file": "Mathematics/Semester 3/Probability/2.04.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,13 +61,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "frequency",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "7f3d4b71cfdf0365",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
@@ -91,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Semester 3/Probability/2.01.md",
+                "file": "Mathematics/Semester 3/Probability/2.04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +107,39 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2816ffd62da63def",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mathematics/Semester 3/Probability/2.04.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "993603fb9d8bd916",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mathematics/Semester 3/Probability/2.04.md"
+              }
+            }
+          },
+          {
+            "id": "1ba84c2fef098e4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -122,17 +163,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1013b2c7259eeee1",
+  "active": "b7588a2c3620d41e",
   "lastOpenFiles": [
-    "Mathematics/Semester 3/Probability/2.02.md",
+    "Mathematics/Semester 3/Probability/2.03.md",
+    "Mathematics/Semester 1/5. Probability/5.02 - Two-way tables.md",
+    "Mathematics/Semester 1/5. Probability/2.08 - Relative frequency.md",
+    "Mathematics/Semester 1/5. Probability/2.06 - Probability in finite sample spaces.md",
     "Mathematics/Semester 3/Probability/2.01.md",
+    "Mathematics/Semester 3/Probability/2.04.md",
+    "Mathematics/Semester 3/Probability/2.02.md",
     "Digital Technologies/Sustainability game.md",
     "Digital Technologies/Requirements.md",
-    "Mathematics/Semester 3/Probability/Pasted image 20230201191325.png",
-    "Mathematics/Semester 3/Probability/Pasted image 20230201191257.png",
-    "Mathematics/Semester 3/Probability/Images/Pasted image 20230201191046.png",
-    "Pasted image 20230201191105.png",
-    "Mathematics/Semester 3/Probability/Images/Pasted image 20230201191111.png",
-    "Pasted image 20230201191109.png"
+    "Mathematics/Semester 3/Probability/Pasted image 20230201191325.png"
   ]
 }
