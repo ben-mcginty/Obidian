@@ -44,5 +44,8 @@ New York City, neon - jazzy
 ## 1960’s
 Suburbia, automobile
 ## 2000’s
+Modern suburbia - more buses
 ## 2010’s
+Mixed use area - housing and small buisnesses, light rail and buses.
 ## 2020’s
+Mixed use - walkable - bikes, light rail and walking.
