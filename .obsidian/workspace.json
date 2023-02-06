@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Semester 3/Probability/2.02.md",
+                "file": "Digital Technologies/Sustainability game.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Semester 3/Probability/2.02.md",
+                "file": "Digital Technologies/Sustainability game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Semester 3/Probability/2.02.md",
+                "file": "Digital Technologies/Sustainability game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Semester 3/Probability/2.02.md"
+                "file": "Digital Technologies/Sustainability game.md"
               }
             }
           },
@@ -162,15 +161,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b7588a2c3620d41e",
+  "active": "1013b2c7259eeee1",
   "lastOpenFiles": [
+    "Mathematics/Semester 3/Probability/2.02.md",
     "Mathematics/Semester 3/Probability/2.03.md",
     "Mathematics/Semester 1/5. Probability/5.02 - Two-way tables.md",
     "Mathematics/Semester 1/5. Probability/2.08 - Relative frequency.md",
     "Mathematics/Semester 1/5. Probability/2.06 - Probability in finite sample spaces.md",
     "Mathematics/Semester 3/Probability/2.01.md",
     "Mathematics/Semester 3/Probability/2.04.md",
-    "Mathematics/Semester 3/Probability/2.02.md",
     "Digital Technologies/Sustainability game.md",
     "Digital Technologies/Requirements.md",
     "Mathematics/Semester 3/Probability/Pasted image 20230201191325.png"
