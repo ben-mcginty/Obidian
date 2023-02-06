@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4085db378f0b7ec6",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Semester 3/Probability/2.04.md",
+                "file": "Mathematics/Semester 3/Probability/2.02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Semester 3/Probability/2.04.md",
+                "file": "Mathematics/Semester 3/Probability/2.02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Semester 3/Probability/2.04.md"
+                "file": "Mathematics/Semester 3/Probability/2.02.md"
               }
             }
           },
