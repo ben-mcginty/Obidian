@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f96d7c8d3b7e7fd4",
+        "id": "b62a50edad256f98",
         "type": "tabs",
         "children": [
           {
-            "id": "8d9d2ba4255fc83b",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "a42c4087cdcce50e",
+            "id": "1c719d5ff982cb2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Semester 3/Probability/2.07.md",
+                "file": "Mathematics/Semester 3/Probability/2.01.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Semester 3/Probability/2.07.md",
+                "file": "Mathematics/Semester 3/Probability/2.01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Semester 3/Probability/2.07.md",
+                "file": "Mathematics/Semester 3/Probability/2.01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Semester 3/Probability/2.07.md"
+                "file": "Mathematics/Semester 3/Probability/2.01.md"
               }
             }
           },
@@ -153,19 +144,18 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-rich-links:Rich Links": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a42c4087cdcce50e",
+  "active": "1c719d5ff982cb2b",
   "lastOpenFiles": [
-    "Mathematics/Semester 3/Probability/2.07.md",
+    "Mathematics/Semester 3/Probability/2.03.md",
+    "Mathematics/Semester 3/Probability/2.02.md",
     "Mathematics/Semester 3/Probability/2.04.md",
+    "Mathematics/Semester 3/Probability/2.07.md",
     "Digital Technologies/Sustainability game.md",
     "Digital Technologies/Requirements.md",
-    "Mathematics/Semester 3/Probability/2.02.md",
-    "Mathematics/Semester 3/Probability/2.03.md",
     "Mathematics/Semester 1/5. Probability/5.02 - Two-way tables.md",
     "Mathematics/Semester 1/5. Probability/2.08 - Relative frequency.md",
     "Mathematics/Semester 1/5. Probability/2.06 - Probability in finite sample spaces.md",
