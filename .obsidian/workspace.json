@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b62a50edad256f98",
+        "id": "e0a60208fd0c4978",
         "type": "tabs",
         "children": [
           {
-            "id": "1c719d5ff982cb2b",
+            "id": "712db713e4700b81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Semester 3/Probability/2.01.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "frequency",
+                "query": "nCr",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Semester 3/Probability/2.01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Semester 3/Probability/2.01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathematics/Semester 3/Probability/2.01.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,17 +140,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1c719d5ff982cb2b",
+  "active": "712db713e4700b81",
   "lastOpenFiles": [
-    "Mathematics/Semester 3/Probability/2.03.md",
-    "Mathematics/Semester 3/Probability/2.02.md",
-    "Mathematics/Semester 3/Probability/2.04.md",
-    "Mathematics/Semester 3/Probability/2.07.md",
-    "Digital Technologies/Sustainability game.md",
-    "Digital Technologies/Requirements.md",
-    "Mathematics/Semester 1/5. Probability/5.02 - Two-way tables.md",
-    "Mathematics/Semester 1/5. Probability/2.08 - Relative frequency.md",
+    "Mathematics/Semester 2/Derivitaves/Untitled.canvas",
+    "Mathematics/Semester 2/Derivitaves/Instantaneous rates of change and change of functions.md",
+    "Mathematics/Semester 2/Derivitaves/Deriviaves of simple functions.md",
+    "Mathematics/Semester 3/Probability/2.01.md",
+    "Mathematics/Semester 1/5. Probability/2.04 - Sample spaces and events.md",
+    "Mathematics/Semester 1/5. Probability/2.07 - Probabilities using combinations.md",
     "Mathematics/Semester 1/5. Probability/2.06 - Probability in finite sample spaces.md",
-    "Mathematics/Semester 3/Probability/2.01.md"
+    "Mathematics/Semester 1/5. Probability/2.05 -  Definition of probability.md",
+    "Mathematics/Semester 1/5. Probability/2.03 - Counting combinations.md",
+    "Mathematics/Semester 1/5. Probability/2.02 - The binomial theorem.md"
   ]
 }
