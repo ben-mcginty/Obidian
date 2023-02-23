@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "5c36ffc3a3d15908",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +151,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "712db713e4700b81",
+  "active": "5c36ffc3a3d15908",
   "lastOpenFiles": [
     "Mathematics/Semester 2/Derivitaves/Untitled.canvas",
     "Mathematics/Semester 2/Derivitaves/Instantaneous rates of change and change of functions.md",
