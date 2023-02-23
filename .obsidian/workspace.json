@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e0a60208fd0c4978",
+        "id": "cecbb95fe7ed8ce4",
         "type": "tabs",
         "children": [
           {
-            "id": "712db713e4700b81",
+            "id": "13ebb76c5d88a6ea",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "5c36ffc3a3d15908",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,8 +140,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c36ffc3a3d15908",
+  "active": "13ebb76c5d88a6ea",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Mathematics/Semester 2/Derivitaves/Untitled.canvas",
     "Mathematics/Semester 2/Derivitaves/Instantaneous rates of change and change of functions.md",
     "Mathematics/Semester 2/Derivitaves/Deriviaves of simple functions.md",
