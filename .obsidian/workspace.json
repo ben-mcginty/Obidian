@@ -11,8 +11,12 @@
             "id": "13ebb76c5d88a6ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Semester 2/Exponentials/Exponential Functions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematics/Semester 2/Exponentials/Exponential Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mathematics/Semester 2/Exponentials/Exponential Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mathematics/Semester 2/Exponentials/Exponential Functions.md"
+              }
             }
           },
           {
@@ -142,6 +150,9 @@
   },
   "active": "13ebb76c5d88a6ea",
   "lastOpenFiles": [
+    "Mathematics/Semester 3/Probability/2.02.md",
+    "Mathematics/Semester 3/Probability/2.04.md",
+    "Mathematics/Semester 2/Derivitaves/Instantaneous Rates of Change & the slope of a curve.md",
     "Untitled.canvas",
     "Mathematics/Semester 2/Derivitaves/Untitled.canvas",
     "Mathematics/Semester 2/Derivitaves/Instantaneous rates of change and change of functions.md",
