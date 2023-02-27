@@ -1,0 +1,1 @@
+![[The Bernoulli Distribution.pdf]]

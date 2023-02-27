@@ -1,0 +1,1 @@
+![[The binomial Distributions.pdf]]

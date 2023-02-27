@@ -1,0 +1,1 @@
+![[The geometric Distribution.pdf]]

@@ -20,5 +20,6 @@
   "templater-obsidian",
   "obsidian-pandoc",
   "omnisearch",
-  "text-extractor"
+  "text-extractor",
+  "editing-toolbar"
 ]
