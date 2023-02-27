@@ -17,5 +17,8 @@
   "obsidian-style-settings",
   "tag-wrangler",
   "window-collapse",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-pandoc",
+  "omnisearch",
+  "text-extractor"
 ]

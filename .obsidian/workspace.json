@@ -4,22 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "cecbb95fe7ed8ce4",
+        "id": "3e9d2acb60ee504a",
         "type": "tabs",
         "children": [
           {
-            "id": "13ebb76c5d88a6ea",
+            "id": "c04957f35eed6902",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Semester 2/Exponentials/Exponential Functions.md",
+                "file": "Mathematics/Semester 3/Probability/2.08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c3faefb0e623f9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Semester 3/Probability/2.05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cde4af61f75e6c80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Semester 3/Probability/Bernoulli Distribution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4777230541c1e136",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Semester 3/Probability/Geometric Distribution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5e67ccb1531f66a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Semester 3/Probability/2.03.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -48,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nCr",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Semester 2/Exponentials/Exponential Functions.md",
+                "file": "Mathematics/Semester 3/Probability/2.03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Semester 2/Exponentials/Exponential Functions.md",
+                "file": "Mathematics/Semester 3/Probability/2.03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Semester 2/Exponentials/Exponential Functions.md"
+                "file": "Mathematics/Semester 3/Probability/2.03.md"
               }
             }
           },
@@ -145,19 +194,35 @@
       "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-rich-links:Rich Links": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "13ebb76c5d88a6ea",
+  "active": "b7588a2c3620d41e",
   "lastOpenFiles": [
     "Mathematics/Semester 3/Probability/2.02.md",
+    "Mathematics/Semester 3/Probability/attachments/Uniform Discrete random variables.pdf",
+    "Mathematics/Semester 3/Probability/attachments/Unconfirmed 802857.crdownload",
+    "Mathematics/Semester 3/Probability/attachments/Discrete Random Variables.pdf",
+    "Mathematics/Semester 3/Probability/attachments/Unconfirmed 834788.crdownload",
+    "Mathematics/Semester 3/Probability/2.01.md",
+    "Mathematics/Semester 3/Probability/attachments/Basic Probability.pdf",
+    "Mathematics/Semester 3/Probability/2.05.md",
+    "Mathematics/Semester 3/Probability/attachments/Pasted image 20230227134918.png",
     "Mathematics/Semester 3/Probability/2.04.md",
+    "Mathematics/Semester 3/Probability/2.03.md",
+    "Mathematics/Semester 3/Probability/Binomial Distribution.md",
+    "Mathematics/Semester 3/Probability/Geometric Distribution.md",
+    "Mathematics/Semester 3/Probability/Bernoulli Distribution.md",
+    "Mathematics/Semester 3/Probability/2.08.md",
+    "Mathematics/Semester 3/Probability/2.06.md",
+    "Mathematics/Semester 3/Probability/2.07.md",
+    "Mathematics/Semester 2/Exponentials/Exponential Functions.md",
     "Mathematics/Semester 2/Derivitaves/Instantaneous Rates of Change & the slope of a curve.md",
     "Untitled.canvas",
     "Mathematics/Semester 2/Derivitaves/Untitled.canvas",
     "Mathematics/Semester 2/Derivitaves/Instantaneous rates of change and change of functions.md",
     "Mathematics/Semester 2/Derivitaves/Deriviaves of simple functions.md",
-    "Mathematics/Semester 3/Probability/2.01.md",
     "Mathematics/Semester 1/5. Probability/2.04 - Sample spaces and events.md",
     "Mathematics/Semester 1/5. Probability/2.07 - Probabilities using combinations.md",
     "Mathematics/Semester 1/5. Probability/2.06 - Probability in finite sample spaces.md",
